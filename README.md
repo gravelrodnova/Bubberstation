@@ -1,4 +1,4 @@
-## Bubberstation (A Skyrat Downstream)
+## Wiferstation (A Bubberstation Downstream)
 
 [![CI Suite](https://github.com/Skyrat-SS13/Skyrat-tg/actions/workflows/ci_suite.yml/badge.svg)](https://github.com/Skyrat-SS13/Skyrat-tg/actions/workflows/ci_suite.yml)
 
@@ -9,10 +9,6 @@
 * **Code:** https://github.com/Bubberstation/Bubberstation
 * **tgstation Wiki:** https://tgstation13.org/wiki/Main_Page
 * **Skyrat Codedocs:** https://skyrat-ss13.github.io/Skyrat-tg/
-* **Bubberstation Discord:** https://discord.gg/AvjrTqnqEx
-* **Coderbus Discord:** https://discord.gg/Vh8TJp9
-
-This is Bubberstation's downstream fork of Skyrat, which is in turn a fork of tgstation.
 
 **Please note that this repository contains sexually explicit content and is not suitable for those under the age of 18.**
 
